@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+p{text-align:justify; margin-left: 20px;margin-right: 10px;}
+
+.nav-logo{
+    margin-left: -50px; float: left;
+}
+h1{font-size: 24px;
+    font-family: Arian, cursive; float:center;
+text-align: justify;
+color: white;
+margin-left: 1in;
+
+  }
+
+  #about-me{ margin-top: 40px; height: 6in ; width: auto font-size: 20px; margin-left: 20px;}
+
+a{text-decoration: none; padding: 10px;
+}
+
+a:hover{background-color: rgb(127, 224, 175);}
+.navbar-menu{
+    margin-left: 40px;
+    float: right;
+}
+
+#navbar{background-color: gray;
+    display: flex;position: fixed;
+padding: 1% 7%; width: 100%
+;
+}
+
+.navbar:hover{box-shadow: tomato;}
+.navbar-menu{
+padding: 10px;
+font-weight: bold;
+}
+.para1{margin-bottom: 70px;
+font-size: 40px;}
+
+
+
+#home{height: 6.5in;color: black;}
+
+#skill{height: 6in; font-family: 'Times New Roman', Times, serif;font-size: 20px;padding-top: 50px;margin-left: 20px;margin-top: 40px;}
